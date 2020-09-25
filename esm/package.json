@@ -1,0 +1,25 @@
+{
+  "name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "main": "index.js",
+  "scripts": {
+    "launch": "http-server src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiquidAssContainer/ajs_modules.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "Lex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LiquidAssContainer/ajs_modules/issues"
+  },
+  "homepage": "https://github.com/LiquidAssContainer/ajs_modules#readme",
+  "dependencies": {
+    "http-server": "^0.12.3"
+  }
+}
